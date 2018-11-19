@@ -1,6 +1,0 @@
-本地工作区与远程仓库连接：
-在git中自己的账号里新建一个仓库，在本地中新建一个文件夹，右键点击此文件夹，选择Git Bash Here，先在仓库中点击clone or download，复制仓库地址，在命令框中输入“git clone”在输入地址，按回车键即可。
-本地电脑到远程仓库：
-在本地文件夹中新建一个有变动的文件，右键从仓库复制到本地的文档，选择Git Gui Here，单击变动文件，将其放入stage中，标清备注信息，点击commit，随后点击push，同步到仓库。
-远程仓库到本地电脑：
-选中文件，右键点击Git Bash Here,点击remote中的fetch origin,再从本地仓库到本地电脑，点击merge中的local merge
